@@ -1,2 +1,2 @@
-# krikamol.github.io
+# Krikamol Muandet
 Personal webpage
