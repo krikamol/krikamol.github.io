@@ -1,6 +1,6 @@
 ---
 layout: "paper"
-title: "This is the new title"
+title: "Paper 1"
 permalink: "/my-new-url/"
 ---
 
