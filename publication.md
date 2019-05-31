@@ -11,7 +11,7 @@ If you have questions regarding any of these publications, please feel free to c
   {% for paper in site.publications %}
   <li>
     <a href="{{ paper.url }}">
-    {{ paper.title }}
+      {{ paper.title }}
     </a>
   </li>
   {% endfor %}
