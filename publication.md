@@ -6,7 +6,7 @@ permalink: /publication/
 
 This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please do not
-hesitate to <a href="{{site.email}}">contact me</a>.
+hesitate to <a href="mailto:{{site.email}}">contact me</a>.
 
 {% assign papers_by_year = site.publications | group_by:'year' %}
 {% for year in papers_by_year %}
