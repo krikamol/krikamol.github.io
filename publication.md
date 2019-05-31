@@ -10,7 +10,9 @@ If you have questions regarding any of these publications, please feel free to c
 <ul>
   {% for paper in site.publications %}
   <li>
+    <a href="{{ paper.url }}">
     {{ paper.title }}
+    </a>
   </li>
   {% endfor %}
 </ul>
