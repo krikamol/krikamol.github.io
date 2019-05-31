@@ -10,6 +10,7 @@ If you have questions regarding any of these publications, please feel free to c
 {% assign papers_by_year = sites.publications | group_by:"year" %}
 
 {% for year in papers_by_year %}
+<b>X</b>
 <h3>{{ year.name }}</h3>
 <ul>
   {% for paper in year.items %}
