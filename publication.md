@@ -17,11 +17,11 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
     {% assign authors = site.data.authors[paper.authors] %}
     <li>
       <a href="{{ paper.url }}">
-        {{ paper.title }} <br>
-        {% for author in paper.authors %}
-          {{ author }}
-        {% endfor %}
-      </a>
+        {{ paper.title }}
+      </a><br>
+      {% for author in site.authors[paper.authors] %}
+        {{ author.first }}
+      {% endfor %}
     </li>
     {% endfor %}
   </ul><br>
