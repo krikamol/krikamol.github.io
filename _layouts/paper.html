@@ -7,8 +7,13 @@ layout: default
     <h3>{{ page.title | escape }}</h3>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {% assign authors = site.data.authors %}
+        {% for idx in page.authors %}
+          {% assign author = authors[idx] %}
+          <a href="{{ author.website }}">
+            {{ author.first }} {{ author.last }}
+          </a>
+        {% endfor %}
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
