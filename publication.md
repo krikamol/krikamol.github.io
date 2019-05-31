@@ -8,9 +8,9 @@ This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please feel free to contact me.
 
 <ul>
-  {% for post in site.posts %}
+  {% for paper in site.publications %}
   <li>
-    {{ post.title }}
+    {{ paper.title }}
   </li>
   {% endfor %}
 </ul>

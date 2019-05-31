@@ -1,6 +1,6 @@
 ---
-layout: "post"
-title: "This is the new title 2"
+layout: "paper"
+title: "This is the new title"
 permalink: "/my-new-url/"
 ---
 
