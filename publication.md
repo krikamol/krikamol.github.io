@@ -7,7 +7,7 @@ permalink: /publication/
 This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please feel free to contact me.
 
-{% assign papers_by_year = sites.publications | group_by: "year" %}
+{% assign papers_by_year = sites.publications | group_by: 'year' %}
 
 {% for year in papers_by_year %}
 <h3>{{ year.name }}</h3>
