@@ -25,6 +25,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
           {{ author.first }} {{ author.last }}
         </a>
       {% endfor %}
+      <i>{{ paper.venue }}</i>
     </li>
     {% endfor %}
   </ul><br>
