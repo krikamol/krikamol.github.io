@@ -19,7 +19,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
       <a href="{{ paper.url }}">
         {{ paper.title }} <br>
         {% for author in authors %}
-          {{ author.first author.last }}
+          {{ author.first }} {{ author.last }}
         {% endfor %}
       </a>
     </li>
