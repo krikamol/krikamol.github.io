@@ -8,4 +8,4 @@ permalink: "/my-new-url/"
 ---
 
 <h2>Abstract</h2>
-{{ paper.abstract }}
+{{ abstract }}

@@ -1,6 +1,6 @@
 ---
 layout: "paper"
-title: "Paper 2"
+title: "Private Causal Inference using Propensity Scores"
 year: "2018"
 authors: krikamol_muandet
 abstract: "abstract"
