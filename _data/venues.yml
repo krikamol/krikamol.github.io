@@ -33,3 +33,7 @@ dagstuhl:
 sdm:
   name: SIAM International Conference on Data Mining
   short: SDM
+
+tue:
+  name: University of Tuebingen
+  short: ""
