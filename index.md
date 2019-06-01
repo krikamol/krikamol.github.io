@@ -7,9 +7,9 @@ layout: home
 
 <br>
 <div class="row">
-  <div class="column"><img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="40%"></div>
+  <div class="column"><img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="30%"></div>
   <div class="column">
-    XXX
+    XXX TEST XXX
   </div>
 </div>
 
