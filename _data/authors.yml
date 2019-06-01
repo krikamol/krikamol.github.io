@@ -208,3 +208,27 @@ jonas_peters:
   last: Peters
   affiliation: University of Copenhagen
   website: http://web.math.ku.dk/~peters/
+
+kun_zhang:
+  first: Kun
+  last: Zhang
+  affiliation: Carnegie Mellon University
+  website: https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html
+
+zhikun_wang:
+  first: Zhikun
+  last: Wang
+  affiliation: Google
+  website: https://scholar.google.de/citations?user=5vj1VV8AAAAJ&hl=en
+
+zhi-hua_zhou:
+  first: Zhi-Hua
+  last: Zhou
+  affiliation: Nanjing University
+  website: https://cs.nju.edu.cn/zhouzh/
+
+claudio_persello:
+  first: Claudio
+  last: Persello
+  affiliation:  University of Twente
+  website: https://research.utwente.nl/en/persons/claudio-persello
