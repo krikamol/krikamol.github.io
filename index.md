@@ -15,4 +15,4 @@ layout: home
 
 <p>I always seek new collaboration, I will be glad to hear from you.</p>
 
-<h3>News</h3>
+<h2>News</h2>
