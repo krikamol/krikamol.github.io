@@ -2,7 +2,7 @@
 layout: "paper"
 title: "Eigendecompositions of Transfer Operators in Reproducing Kernel Hilbert Spaces"
 type: journal
-venue: fnt-ml
+venue: fntml
 year: "2017"
 authors:
   - krikamol_muandet
