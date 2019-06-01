@@ -31,7 +31,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
       {% endfor %}
       <br>
       <small><i>{{ venues[paper.venue].name }}</i></small>
-    </li><br>
+    </li>
     {% endfor %}
   </ul>
 {% endfor %}
