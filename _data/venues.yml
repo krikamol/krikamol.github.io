@@ -65,3 +65,7 @@ acml:
 pakdd:
   name: Pacific-Asia Conference on Knowledge Discovery and Data Mining Conference
   short: PAKDD
+
+ecticon:
+  name: International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology
+  short: ECTI-CON
