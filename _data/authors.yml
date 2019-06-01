@@ -244,3 +244,9 @@ gary_doran:
   last: Doran
   affiliation: NASA's Jet Propulsion Laboratory
   website: https://ml.jpl.nasa.gov/people/doran.shtml
+
+david_balduzzi:
+  first: David
+  last: Balduzzi
+  affiliation: DeepMind
+  website: https://sites.google.com/site/dbalduzzi/
