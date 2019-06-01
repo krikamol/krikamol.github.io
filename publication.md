@@ -8,6 +8,8 @@ This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please do not
 hesitate to <a href="mailto:{{site.email}}">contact me</a>.
 
+My bibliographic information is also available on DBLP.
+
 {% assign authors = site.data.authors %}
 {% assign venues = site.data.venues %}
 {% assign papers_by_year = site.publications | group_by:'year' %}
