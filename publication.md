@@ -28,11 +28,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
         {% unless forloop.last %}-{% endunless %}
       {% endfor %}
       <br>
-      {% if paper.type == "preprint" %}
-        <i>{{ paper.type }}</i>
-      {% else %}
-        <i>{{ paper.venue }}</i>
-      {% endif %}
+      <i>{{ venues[paper.venue].name }}</i>
     </li><br>
     {% endfor %}
   </ul><br>

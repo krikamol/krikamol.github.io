@@ -1,3 +1,7 @@
+arxiv:
+  name: Preprint
+  short:
+
 jmlr:
   name: Journal of Machine Learning Research
   short: JMLR
@@ -9,3 +13,7 @@ neurips:
 icml:
   name: International Conference on Machine Learning
   short: ICML
+
+prl:
+  name: Physical Review Letter
+  short: PRL

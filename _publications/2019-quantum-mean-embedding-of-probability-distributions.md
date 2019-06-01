@@ -2,7 +2,7 @@
 layout: "paper"
 title: "Quantum Mean Embedding of Probability Distributions"
 type: journal
-venue: Physical Review Letter
+venue: prl
 year: "2019"
 authors:
   - jonas_kuebler

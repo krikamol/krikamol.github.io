@@ -2,7 +2,7 @@
 layout: "paper"
 title: "Kernel Conditional Density Operators"
 type: preprint
-venue: ""
+venue: arxiv
 year: "2019"
 authors:
   - ingmar_schuster

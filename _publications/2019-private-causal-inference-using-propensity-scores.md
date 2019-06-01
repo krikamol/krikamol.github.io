@@ -2,8 +2,8 @@
 layout: "paper"
 title: "Private Causal Inference using Propensity Scores"
 type: conference
-venue: The International Conference on Machine Learning (ICML)
-year: "2018"
+venue: icml
+year: "2019"
 authors:
   - sikai_lee
   - luigi_gresele
