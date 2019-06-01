@@ -129,3 +129,27 @@ sanparith_marukatat:
   last: Marukatat
   affiliation: NECTEC
   website: https://scholar.google.de/citations?user=6uMrUsQAAAAJ&hl=en
+
+nihar_shah:
+  first: Nihar
+  last: Shah
+  affiliation: Carnegie Mellon University
+  website: https://www.cs.cmu.edu/~nihars/
+
+behzad_tabibian:
+  first: Behzad
+  last: Tabibian
+  affiliation: MPI-IS
+  website: http://btabibian.com/
+
+isabelle_guyon:
+  first: Isabelle
+  last: Guyon
+  affiliation: ClopiNet
+  website: https://www.clopinet.com/isabelle/
+
+ulrike_von_luxburg:
+  first: Ulrike
+  last: von Luxburg
+  affiliation: University of Tuebingen
+  website: http://www.tml.cs.uni-tuebingen.de/team/luxburg/
