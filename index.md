@@ -5,8 +5,7 @@
 layout: home
 ---
 
-<center> CV | Research Statement | Github
-Google Scholar | DBLP | ResearchGate</center>
+<center> CV | Research Statement | Github | Google Scholar | DBLP | ResearchGate</center>
 <br>
 <img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="100%">
 
