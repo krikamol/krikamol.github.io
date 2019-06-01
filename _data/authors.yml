@@ -87,3 +87,21 @@ wittawat_jitkrittum:
   last: Jitkrittum
   affiliation: MPI-IS
   website: http://wittawat.com/
+
+niki_kilbertus:
+  first: Niki
+  last: Kilbertus
+  affiliation: MPI-IS &  University of Cambridge
+  website: https://www.is.mpg.de/person/nkilbertus
+
+manuel_gomez_rodriguez:
+  first: Manuel
+  last: Gomez Rodriguez
+  affiliation: MPI-SWS
+  website: https://people.mpi-sws.org/~manuelgr/
+
+isabel_valera:
+  first: Isabel
+  last: Valera
+  affiliation: MPI-IS
+  website: https://ivaleram.github.io/
