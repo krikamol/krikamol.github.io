@@ -33,3 +33,21 @@ jonas_kuebler:
   last: Kuebler
   affiliation: MPI-IS
   website: https://www.is.mpg.de/person/jmkuebler
+
+mijung_park:
+  first: Mijung
+  last: Park
+  affiliation: MPI-IS
+  website: https://ei.is.mpg.de/~mpark
+
+sikai_lee:
+  first: Si Kai
+  last: Lee
+  affiliation:
+  website: https://www.is.mpg.de/person/sklee
+
+luigi_gresele:
+  first: Luigi
+  last: Gresele
+  affiliation: MPI-IS
+  website: https://ei.is.tuebingen.mpg.de/person/lgresele
