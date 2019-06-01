@@ -3,3 +3,21 @@ krikamol_muandet:
   last: Muandet
   affiliation: MPI
   website: http://krikamol.org
+
+ingmar_schuster:
+  first: Ingmar
+  last: Schuster
+  affiliation: Zalando
+  website: https://ingmarschuster.com/
+
+mattes_mollenhauer:
+  first: Mattes
+  last: Mollenhauer
+  affiliation: FU Berlin
+  webite: https://www.mi.fu-berlin.de/en/math/groups/biocomputing/people/scientific_staff/mattes_mollenhauer.html
+
+stefan_klus:
+  first: Stefan
+  last: Klus
+  affiliation: FU Berlin
+  website: https://www.mi.fu-berlin.de/en/math/groups/biocomputing/people/scientific_staff/klus_stefan.html
