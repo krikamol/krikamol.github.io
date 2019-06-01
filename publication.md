@@ -23,7 +23,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
       {% for idx in paper.authors %}
         {% assign author = authors[idx] %}
         <small>
-        <a href="{{ author.website }}">
+        <a href="{{ author.website }}" target="_blank">
           {{ author.first }} {{ author.last }}
         </a>
         </small>
