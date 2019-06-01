@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<br>
 <img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="40%">
 
 <br>
