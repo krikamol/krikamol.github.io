@@ -33,5 +33,5 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
       <i>{{ venues[paper.venue].name }}</i>
     </li><br>
     {% endfor %}
-  </ul><br>
+  </ul>
 {% endfor %}
