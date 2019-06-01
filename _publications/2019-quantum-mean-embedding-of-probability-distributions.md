@@ -1,9 +1,9 @@
 ---
 layout: "paper"
 title: "Quantum Mean Embedding of Probability Distributions"
-type: journal
-venue: prl
-year: "2019"
+type: preprint
+venue: arxiv
+year: 2019
 authors:
   - jonas_kuebler
   - krikamol_muandet

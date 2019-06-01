@@ -51,3 +51,27 @@ luigi_gresele:
   last: Gresele
   affiliation: MPI-IS
   website: https://ei.is.tuebingen.mpg.de/person/lgresele
+
+yan_zhang:
+  first: Yan
+  last: Zhang
+  affiliation: Ulm University
+  website: https://yz-cnsdqz.github.io/
+
+qianli_ma:
+  first: Qianli
+  last: Ma
+  affiliation: MPI-IS
+  website: https://www.is.mpg.de/person/qma
+
+siyu_tang:
+  first: Siyu
+  last: Tang
+  affiliation: MPI-IS
+  website: https://ps.is.tuebingen.mpg.de/person/stang
+
+heiko_neumann:
+  first: Heiko
+  last: Neumann
+  affiliation: Ulm University
+  website: https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/hneumann/

@@ -1,8 +1,8 @@
 ---
 layout: "paper"
 title: "Private Causal Inference using Propensity Scores"
-type: conference
-venue: icml
+type: preprint
+venue: arxiv
 year: "2019"
 authors:
   - sikai_lee
