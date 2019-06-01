@@ -21,3 +21,7 @@ prl:
 cvpr:
   name: IEEE Computer Society Conference on Computer Vision and Pattern Recognition
   short: CVPR
+
+fnt-ml:
+  name: Foundations and Trends® in Machine Learning
+  short: FnT ML
