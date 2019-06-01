@@ -1,0 +1,11 @@
+jmlr:
+  name: Journal of Machine Learning Research
+  short: JMLR
+
+neurips:
+  name: Neural Information Processing Systems
+  short: NeurIPS
+
+icml:
+  name: International Conference on Machine Learning
+  short: ICML
