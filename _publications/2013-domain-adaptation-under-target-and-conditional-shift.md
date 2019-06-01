@@ -1,0 +1,32 @@
+---
+layout: "paper"
+title: "Domain Adaptation under Target and Conditional Shift"
+type: conference
+venue: icml
+year: "2013"
+authors:
+  - kun_zhang
+  - bernhard_schoelkopf
+  - krikamol_muandet
+  - zhikun_wang
+abstract: "Let X denote the feature and Y the target. We consider domain adaptation under
+three possible scenarios: (1) the marginal
+PY changes, while the conditional PX|Y stays
+the same (target shift), (2) the marginal PY
+is fixed, while the conditional PX|Y changes
+with certain constraints (conditional shift),
+and (3) the marginal PY changes, and the
+conditional PX|Y changes with constraints
+(generalized target shift). Using background
+knowledge, causal interpretations allow us to
+determine the correct situation for a problem
+at hand. We exploit importance reweighting or sample transformation to find the
+learning machine that works well on test
+data, and propose to estimate the weights
+or transformations by reweighting or transforming training data to reproduce the covariate distribution on the test domain. Thanks
+to kernel embedding of conditional as well
+as marginal distributions, the proposed approaches avoid distribution estimation, and
+are applicable for high-dimensional problems.
+Numerical evaluations on synthetic and realworld data sets demonstrate the effectiveness
+of the proposed framework."
+---
