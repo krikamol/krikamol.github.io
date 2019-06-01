@@ -19,7 +19,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
     <li>
       <a href="{{ paper.url }}">
         <strong>{{ paper.title }}</strong>
-      </a><br>
+      </a><br> 
       {% for idx in paper.authors %}
         {% assign author = authors[idx] %}
         <a href="{{ author.website }}">
