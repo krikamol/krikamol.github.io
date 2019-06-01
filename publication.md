@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publication
+dblp: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Muandet:Krikamol.html
 permalink: /publication/
 ---
 
@@ -8,7 +9,7 @@ This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please do not
 hesitate to <a href="mailto:{{site.email}}">contact me</a>.
 
-My bibliographic information is also available on DBLP.
+My bibliographic information is also available on <a href="{{ dblp }}">DBLP</a>.
 
 {% assign authors = site.data.authors %}
 {% assign venues = site.data.venues %}
