@@ -61,3 +61,7 @@ gatsby_ucl:
 acml:
   name: Asian Conference on Machine Learning
   short: ACML
+
+pakdd:
+  name: Pacific-Asia Conference on Knowledge Discovery and Data Mining Conference
+  short: PAKDD
