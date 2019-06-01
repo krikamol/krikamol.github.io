@@ -30,7 +30,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
         {% unless forloop.last %}-{% endunless %}
       {% endfor %}
       <br>
-      <i>{{ venues[paper.venue].name }}</i>
+      <small><i>{{ venues[paper.venue].name }}</i></small>
     </li><br>
     {% endfor %}
   </ul>
