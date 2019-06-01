@@ -53,3 +53,7 @@ uai:
 neurips_confluence_kernel_graphical:
   name: NeurIPS2012 Workshop on Confluence between Kernel Methods and Graphical Models
   short: ""
+
+gatsby_ucl:
+  name: M.Sc. Thesis, Department of Computer Science, University College London, 2010.
+  short: ""
