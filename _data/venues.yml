@@ -41,7 +41,11 @@ tue:
 statncomp:
   name: Statistics and Computing
   short: ""
-  
+
 roks:
   name: Regularization, Optimization, Kernels, and Support Vector Machines
   short: ROKS
+
+uai:
+  name: The Conference on Uncertainty in Artificial Intelligence
+  short: UAI

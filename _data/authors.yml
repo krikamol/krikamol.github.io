@@ -238,3 +238,9 @@ ben_recht:
   last: Recht
   affiliation: UC Berkeley
   website: https://people.eecs.berkeley.edu/~brecht/
+
+gary_doran:
+  first: Gary
+  last: Doran
+  affiliation: NASA's Jet Propulsion Laboratory
+  website: https://ml.jpl.nasa.gov/people/doran.shtml
