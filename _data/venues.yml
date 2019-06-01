@@ -57,3 +57,7 @@ neurips_confluence_kernel_graphical:
 gatsby_ucl:
   name: M.Sc. Thesis, Department of Computer Science, University College London, 2010.
   short: ""
+
+acml:
+  name: Asian Conference on Machine Learning
+  short: ACML
