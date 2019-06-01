@@ -4,6 +4,12 @@ krikamol_muandet:
   affiliation: MPI
   website: http://krikamol.org
 
+bernhard_schoelkopf:
+  first: Bernhard
+  last: Scholkopf
+  affiliation: MPI-IS
+  website: https://www.is.mpg.de/~bs
+
 ingmar_schuster:
   first: Ingmar
   last: Schuster

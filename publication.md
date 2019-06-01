@@ -9,6 +9,7 @@ If you have questions regarding any of these publications, please do not
 hesitate to <a href="mailto:{{site.email}}">contact me</a>.
 
 {% assign authors = site.data.authors %}
+{% assign venues = site.data.venues %}
 {% assign papers_by_year = site.publications | group_by:'year' %}
 {% assign papers_by_sorted_year = papers_by_year | sort: 'name' | reverse %}
 {% for year in papers_by_sorted_year %}
@@ -26,7 +27,11 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
         </a>
       {% endfor %}
       <br>
-      <i>{{ paper.venue }}</i>
+      {% if paper.type == "preprint" %}
+        <i>{{ paper.type }}</i>
+      {% else %}
+        <i>{{ paper.venue }}</i>
+      {% endif %}
     </li>
     {% endfor %}
   </ul><br>
