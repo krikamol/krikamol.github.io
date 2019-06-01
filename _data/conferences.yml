@@ -1,5 +1,3 @@
-krikamol_muandet:
-  first: Krikamol
-  last: Muandet
-  affiliation: MPI
-  website: http://krikamol.org
+neurips:
+  name: Neural Information Processing Systems
+  short: NeurIPS

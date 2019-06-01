@@ -1,5 +1,3 @@
-krikamol_muandet:
-  first: Krikamol
-  last: Muandet
-  affiliation: MPI
-  website: http://krikamol.org
+jmlr:
+  name: Journal of Machine Learning Research
+  short: JMLR
