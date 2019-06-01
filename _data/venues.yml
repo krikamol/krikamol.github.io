@@ -29,3 +29,7 @@ fntml:
 dagstuhl:
   name: Report of Dagstuhl Seminar 16481 (contributed talk on kernel mean shrinkage estimators)
   short: Dagstuhl Seminar
+
+sdm:
+  name: SIAM International Conference on Data Mining
+  short: SDM
