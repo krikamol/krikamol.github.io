@@ -171,3 +171,22 @@ kenji_fukumizu:
   last: Fukumizu
   affiliation: The Institute of Statistical Mathematics
   website: https://www.ism.ac.jp/~fukumizu/
+
+arthur_gretton:
+  first: Arthur
+  last: Gretton
+  affiliation: Gatsby Unit, UCL
+  website: http://www.gatsby.ucl.ac.uk/~gretton/
+
+philipp_hennig:
+  first: Philipp
+  last: Hennig
+  affiliation: University of Tuebingen
+  website: https://pn.is.tuebingen.mpg.de/person/phennig
+
+carl_edward_rasmussen:
+  first: Carl
+  middle: Edward
+  last: Rasmussen
+  affiliation: University of Cambridge
+  website: http://mlg.eng.cam.ac.uk/carl/
