@@ -28,6 +28,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - bio.md
+  - research.md
+  - publication.md
+  - teaching.md
+  - tutorial.md
+
 collections:
   publications:
     paper: true
