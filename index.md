@@ -6,7 +6,7 @@ layout: home
 ---
 
 <br>
-<img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="70%">
+<img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="100%">
 
 
 <br>
