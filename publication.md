@@ -19,12 +19,14 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
     <li>
       <a href="{{ paper.url }}">
         <strong>{{ paper.title }}</strong>
-      </a><br> 
+      </a><br>
       {% for idx in paper.authors %}
         {% assign author = authors[idx] %}
+        <small>
         <a href="{{ author.website }}">
           {{ author.first }} {{ author.last }}
         </a>
+        </small>
         {% unless forloop.last %}-{% endunless %}
       {% endfor %}
       <br>
