@@ -26,7 +26,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
         <a href="{{ author.website }}">
           {{ author.first }} {{ author.last }}
         </a>
-        {% unless forloop.last %},{% endunless %}
+        {% unless forloop.last %}-{% endunless %}
       {% endfor %}
       <br>
       {% if paper.type == "preprint" %}
