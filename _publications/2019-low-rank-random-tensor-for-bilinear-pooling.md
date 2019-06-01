@@ -10,7 +10,7 @@ authors:
   - qianli_ma
   - heiko_neumann
   - siyu_tang
-abstract: " Bilinear pooling is capable of extracting high-order information
+abstract: "Bilinear pooling is capable of extracting high-order information
 from data, which makes it suitable for fine-grained visual understanding and
 information fusion. Despite their effectiveness in various applications, the
 bilinear models with massive number of parameters can easily suffer from the
