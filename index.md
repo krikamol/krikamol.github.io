@@ -5,7 +5,6 @@
 layout: home
 ---
 
-<br>
 <center> CV | Research Statement | Github
 Google Scholar | DBLP | ResearchGate</center>
 <br>
