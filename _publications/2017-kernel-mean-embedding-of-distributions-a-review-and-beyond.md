@@ -1,6 +1,6 @@
 ---
 layout: "paper"
-title: "Eigendecompositions of Transfer Operators in Reproducing Kernel Hilbert Spaces"
+title: "Kernel Mean Embedding of Distributions: A Review and Beyond"
 type: journal
 venue: fntml
 year: "2017"
