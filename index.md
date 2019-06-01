@@ -6,7 +6,12 @@ layout: home
 ---
 
 <br>
-<img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="40%">
+<div class="row">
+  <div class="column"><img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="40%"></div>
+  <div class="column">
+    XXX
+  </div>
+</div>
 
 <br>
 <p>Hallo! My name is Krikamol Muandet (ไกรกมล หมื่นเดช). I am a research group leader affiliated with the Empirical Inference Department at Max Planck Institute for Intelligent Systems, Tübingen, Germany. From January 2016 to December 2017, I was a lecturer at the Department of Mathematics, Faculty of Science, Mahidol University in Thailand. My research interest lies in the area known as "machine learning". I am particularly interested in, for example, statistical learning theory, kernel methods, Bayesian nonparametric, large-scale learning, and counterfactual prediction (see a full list of my publications for details). When I am not doing research, I enjoy reading books (on topics related to philosophy, psychology, history of science, etc) and watching movies. I also like outdoor sports such as bouldering, climbing, and snowboarding (if the weather permits).</p>
