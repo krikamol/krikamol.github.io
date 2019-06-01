@@ -49,3 +49,7 @@ roks:
 uai:
   name: The Conference on Uncertainty in Artificial Intelligence
   short: UAI
+
+neurips_confluence_kernel_graphical:
+  name: NeurIPS2012 Workshop on Confluence between Kernel Methods and Graphical Models
+  short: ""
