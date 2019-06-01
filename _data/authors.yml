@@ -75,4 +75,15 @@ heiko_neumann:
   last: Neumann
   affiliation: Ulm University
   website: https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/hneumann/
-  
+
+arash_mehrjou:
+  first: Arash
+  last: Mehrjou
+  affiliation: MPI-IS
+  website: https://ei.is.tuebingen.mpg.de/person/amehrjou
+
+wittawat_jitkrittum:
+  first: Wittawat
+  last: Jitkrittum
+  affiliation: MPI-IS
+  website: http://wittawat.com/
