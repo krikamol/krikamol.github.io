@@ -35,6 +35,12 @@ header_pages:
   - teaching.md
   - tutorial.md
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 collections:
   publications:
     paper: true
