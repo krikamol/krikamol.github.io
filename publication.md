@@ -32,7 +32,7 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a>.
       {% else %}
         <i>{{ paper.venue }}</i>
       {% endif %}
-    </li>
+    </li><br>
     {% endfor %}
   </ul><br>
 {% endfor %}
