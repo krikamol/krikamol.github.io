@@ -8,8 +8,9 @@ layout: home
 <center>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
-<svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
-Github | Google Scholar | DBLP | ResearchGate</center>
+<a href="https://github.com/{{ social.github | cgi_escape | escape }}">
+Github</a> |
+Google Scholar | DBLP | ResearchGate</center>
 <br>
 <img src="{{ site.krik_img_file }}" width="100%">
 
