@@ -51,6 +51,7 @@ collections:
     permalink: /:collection/:title
 
 # essential files
+krik_img_file: assets/img/krikamol.jpg 
 cv_file: assets/pdf/krikamol-cv.pdf
 rs_file: assets/pdf/krikamol-research.pdf
 

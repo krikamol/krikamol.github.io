@@ -7,10 +7,10 @@ layout: home
 
 <center>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
-<a href="{{ site.rs_file }}" target="_blank">Research Statement</a> | 
+<a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
 Github | Google Scholar | DBLP | ResearchGate</center>
 <br>
-<img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="100%">
+<img src="{{ site.krik_img_file }}" width="100%">
 
 
 <br>
