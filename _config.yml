@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: krikamol
 github_username:  krikamol
+scholar_username: E2z5uYsAAAAJ
 
 # Build settings
 markdown: kramdown
@@ -51,7 +52,7 @@ collections:
     permalink: /:collection/:title
 
 # essential files
-krik_img_file: assets/img/krikamol.jpg 
+krik_img_file: assets/img/krikamol.jpg
 cv_file: assets/pdf/krikamol-cv.pdf
 rs_file: assets/pdf/krikamol-research.pdf
 

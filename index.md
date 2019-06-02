@@ -8,9 +8,11 @@ layout: home
 <center>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
-<a href="https://github.com/{{ site.github_username }}">
-Github</a> |
-Google Scholar | DBLP | ResearchGate</center>
+<a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> |
+<a href="https://scholar.google.com/citations?user={{ site.scholar_username}}" target="_blank">Google Scholar</a> |
+DBLP |
+ResearchGate
+</center>
 <br>
 <img src="{{ site.krik_img_file }}" width="100%">
 
