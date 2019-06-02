@@ -40,6 +40,9 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "assets/pdf"
+      pdf: true
 
 collections:
   publications:
