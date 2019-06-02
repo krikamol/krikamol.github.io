@@ -52,6 +52,7 @@ collections:
 
 # essential files
 cv_file: assets/pdf/krikamol-cv.pdf
+rs_file: assets/pdf/krikamol-research.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

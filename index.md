@@ -6,8 +6,9 @@ layout: home
 ---
 
 <center>
-<a href="{{ site.cv_file }}" target="_blank"> CV </a> | 
-Research Statement | Github | Google Scholar | DBLP | ResearchGate</center>
+<a href="{{ site.cv_file }}" target="_blank">CV</a> |
+<a href="{{ site.rs_file }}" target="_blank">Research Statement</a> | 
+Github | Google Scholar | DBLP | ResearchGate</center>
 <br>
 <img src="{{site.baseurl}}/assets/img/krikamol.jpg" width="100%">
 
