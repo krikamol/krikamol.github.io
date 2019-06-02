@@ -11,7 +11,8 @@ layout: home
 <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> |
 <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" target="_blank">Google Scholar</a> |
 <a href="https://dblp.uni-trier.de/pers/hd/m/{{ site.dblp_username }}" target="_blank">DBLP</a> |
-<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank">ResearchGate</a>
+<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank">ResearchGate</a> |
+<a href="https://orcid.org/{{ site.orcid_username }}" target="_blank">ORCID</a>
 </center>
 <br>
 <img src="{{ site.krik_img_file }}" width="100%">
