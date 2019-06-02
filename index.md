@@ -8,7 +8,7 @@ layout: home
 <center>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
-<a href="https://github.com/{{ social.github | cgi_escape | escape }}">
+<a href="https://github.com/{{ site.github_username | cgi_escape | escape }}">
 Github</a> |
 Google Scholar | DBLP | ResearchGate</center>
 <br>
