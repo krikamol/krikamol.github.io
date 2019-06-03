@@ -40,7 +40,7 @@ My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP
         {%- endif -%}
       {% elsif paper.type == "conference" %}
         {%- if venues[paper.venue].short -%}
-          ({{venues[paper.venue].short}}{{paper.year}})
+          ({{venues[paper.venue].short}} {{paper.year}})
         {%- endif -%}
       {% endif %}
       </i></small>
