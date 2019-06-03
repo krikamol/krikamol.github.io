@@ -6,7 +6,7 @@ layout: home
 ---
 
 <center>
-<img src="{{ site.krik_img_file }}" width="100%"><br>
+<img src="{{ site.krik_img_file }}" width="100%"><br><br>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
 <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> |
