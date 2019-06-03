@@ -34,10 +34,14 @@ My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP
       {% endfor %}
       <br>
       <small><i>{{ venues[paper.venue].name }}
-      {% if paper.type == journal or paper.type == conference %}
+      {% if paper.type == "journal" %}
         {%- if venues[paper.venue].short -%}
           ({{venues[paper.venue].short}})
         {%- endif -%}
+      {% elseif paper.type == "conference" %}
+      {%- if venues[paper.venue].short -%}
+        ({{venues[paper.venue].short}}{{paper.year}})
+      {%- endif -%}
       {% endif %}
       </i></small>
     </li>
