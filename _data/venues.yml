@@ -40,7 +40,7 @@ tue:
 
 statncomp:
   name: Statistics and Computing
-  short: ""
+  short: Stat Comput
 
 roks:
   name: Regularization, Optimization, Kernels, and Support Vector Machines
