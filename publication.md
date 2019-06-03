@@ -33,7 +33,13 @@ My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP
         {% unless forloop.last %}-{% endunless %}
       {% endfor %}
       <br>
-      <small><i>{{ venues[paper.venue].name }}</i></small>
+      <small><i>{{ venues[paper.venue].name }}
+      {% if paper.type == journal or paper.type == conference %}
+        {%- if venues[paper.venue].short -%}
+          ({{venues[paper.venue].short}})
+        {%- endif -%}
+      {% endif %}
+      </i></small>
     </li>
     {% endfor %}
   </ul>
