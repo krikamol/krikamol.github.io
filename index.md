@@ -6,6 +6,7 @@ layout: home
 ---
 
 <center>
+<img src="{{ site.krik_img_file }}" width="100%"><br>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> |
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> |
 <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> |
@@ -14,8 +15,6 @@ layout: home
 <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank">ResearchGate</a> |
 <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank">ORCID</a>
 </center>
-<br>
-<img src="{{ site.krik_img_file }}" width="100%">
 
 <br>
 <p><i>My current research aims to develop machine learning techniques that will <strong>bridge the gap between randomized experiments and empirical inference</strong>. See <a href="{% link publication.md %}">publication</a> for my recent work.</i></p>
