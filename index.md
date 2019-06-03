@@ -16,7 +16,6 @@ layout: home
 <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank">ORCID</a>
 </center>
 
-<br>
 <p><i>My current research aims to develop machine learning techniques that will <strong>bridge the gap between randomized experiments and empirical inference</strong>. See <a href="{% link publication.md %}">publication</a> for my recent work.</i></p>
 
 <br>
