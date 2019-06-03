@@ -38,7 +38,7 @@ My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP
         {%- if venues[paper.venue].short -%}
           ({{venues[paper.venue].short}})
         {%- endif -%}
-      {% elseif paper.type == "conference" %}
+      {% elsif paper.type == "conference" %}
         {%- if venues[paper.venue].short -%}
           ({{venues[paper.venue].short}}{{paper.year}})
         {%- endif -%}
