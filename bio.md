@@ -25,7 +25,6 @@ in T&uuml;bingen, Germany. The symposium attracted several world-renowned scient
   In December 2016, I was invited to participate in the <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16481" target="_blank">Dagstuhl Seminar in New Directions for Learning
   with Kernels and Gaussian Processes</a>. At the workshop, we discussed about the new directions of machine learning with kernel methods.</p>
 
-  <center><img src="images/dagstuhl.jpg" width="800"></center>			
-
+![Dagstuhl Seminar](/assets/dagstuhl.jpg)
 
 <p>I also helped organize the 29th Neural Information Processing Systems (NIPS 2016) and Data, Learning, and Inference (DALI 2019) workshop.</p>
