@@ -19,8 +19,7 @@ Max Planck Institute for Intelligent Systems, T&uuml;bingen, Germany.  I finishe
 birthday of Professor Vladimir N. Vapnik, the father of the field of statistical learning theory. The symposium took place at Max Planck Institute for Intelligent Systems
 in T&uuml;bingen, Germany. The symposium attracted several world-renowned scientists in machine learning as can be seen in the group picture below.</p>  
 
-{% assign img_file = site.static_files | where: "name", "mpi-symposium.jpg" %}
-<img src="{{ img_file.path }}" width="100%">
+![Empirical Inference Symposium](/assets/mpi-symposium.jpg)
 <br>
   <p class="small">In 2016, I returned to Thailand and became the lecturer at the Department of Mathematics, Faculty of Science, Mahidol University. At Mahidol, I taught several courses related to mathematics, statistics, and machine learning.
   In December 2016, I was invited to participate in the <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16481" target="_blank">Dagstuhl Seminar in New Directions for Learning
