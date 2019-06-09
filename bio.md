@@ -27,4 +27,6 @@ in T&uuml;bingen, Germany. The symposium attracted several world-renowned scient
 
 ![Dagstuhl Seminar](/assets/img/dagstuhl.jpg)
 
-<p>I also helped organize the 29th Neural Information Processing Systems (NIPS 2016) and Data, Learning, and Inference (DALI 2019) workshop.</p>
+<p>I also helped organize the 29th Neural Information Processing Systems (NIPS 2016) and Data, Learning, and Inference (DALI 2019) workshop together with Arthur Gretton and Shakir Mohamed.</p>
+
+![Dagstuhl Seminar](/assets/img/dali2019.jpg)
