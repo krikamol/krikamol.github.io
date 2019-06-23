@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
- 
+
 <p>My name is <strong>Krikamol Muandet (&#3652;&#3585;&#3619;&#3585;&#3617;&#3621; &#3627;&#3617;&#3639;&#3656;&#3609;&#3648;&#3604;&#3594;)</strong>
 and I was born in Thailand. In Thailand, I am also known by the name of "Ake", although my
 foreign friends often call me "Krik". From 2002 to 2005, I studied at <a href="http://www.mwit.ac.th">Mahidol Wittayanusorn School</a>, the first science school of Thailand. My most favorite subjects in high school are mathematics and computer programming. At the end of high school, I did the final project on traffic light control using reinforcement learning, which inspired me to become passionate about machine learning and artificial intelligence. Afterwards, I join the <a href="http://www.nstda.or.th/ystp">Young Scientist and Technologist Programme</a> of
@@ -19,7 +19,7 @@ Prof. Bernhard Sch&ouml;lkopf</a>. In December 2015, I was awarded the doctoral 
 <a target="_blank" href="http://www.stats.ox.ac.uk/~teh/index.html">Prof. Yee Whye Teh.</a> (M.Sc. thesis advisor) at the
 <a target="_blank" href="http://www.gatsby.ucl.ac.uk/">Gatsby Computational Neuroscience Unit</a> and	<a target="_blank" href="http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/">Prof. John Shawe-Taylor</a> (M.Sc. Tutor) at the
 <a target="_blank" href="http://www.csml.ucl.ac.uk/">Center for Computational Statistics and Machine Learning</a>.
-During my PhD, I was a visiting scholar at the Institute of Statistical Mathematics, Japan; Center for Cosmology and Particle Physics, New York University; Palomar Observatory in San Diego; American Museum of Natural History, and Institut fÃ¼r Stochastik und Anwendungen, University of Stuttgart, among others.</p>
+During my PhD, I was a visiting scholar at the Institute of Statistical Mathematics, Japan; Center for Cosmology and Particle Physics, New York University; Palomar Observatory in San Diego; American Museum of Natural History, and Institut for Stochastik und Anwendungen, University of Stuttgart, among others.</p>
 
 <p>During December 8-10, 2011, it was my great honor to co-organize the <a href="http://webdav.tuebingen.mpg.de/empirical-inference/" target="_blank">Empirical Inference Symposium</a> which was held in honor of the 75th
 birthday of Professor Vladimir N. Vapnik, the father of the field of statistical learning theory. The symposium took place at Max Planck Institute for Intelligent Systems
