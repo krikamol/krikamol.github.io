@@ -4,8 +4,8 @@ title: Bio
 permalink: /bio/
 ---
 
-
-<p>Welcome to my personal webpage. My name is <strong>Krikamol Muandet (&#3652;&#3585;&#3619;&#3585;&#3617;&#3621; &#3627;&#3617;&#3639;&#3656;&#3609;&#3648;&#3604;&#3594;)</strong>
+ 
+<p>My name is <strong>Krikamol Muandet (&#3652;&#3585;&#3619;&#3585;&#3617;&#3621; &#3627;&#3617;&#3639;&#3656;&#3609;&#3648;&#3604;&#3594;)</strong>
 and I was born in Thailand. In Thailand, I am also known by the name of "Ake", although my
 foreign friends often call me "Krik". From 2002 to 2005, I studied at <a href="http://www.mwit.ac.th">Mahidol Wittayanusorn School</a>, the first science school of Thailand. My most favorite subjects in high school are mathematics and computer programming. At the end of high school, I did the final project on traffic light control using reinforcement learning, which inspired me to become passionate about machine learning and artificial intelligence. Afterwards, I join the <a href="http://www.nstda.or.th/ystp">Young Scientist and Technologist Programme</a> of
 <a href="http://www.nstda.or.th">National Science and Technology Development Agency (NSTDA)</a>. Under this programme, I pursued my bachelor degree in computer science at <a href="http://www.siit.tu.ac.th">Sirindhorn
