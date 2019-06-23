@@ -33,6 +33,6 @@ with Kernels and Gaussian Processes</a>. At the workshop, we discussed about the
 
 ![Dagstuhl Seminar](/assets/img/dagstuhl.jpg)
 
-<p>I also helped organize the 29th Neural Information Processing Systems (NIPS 2016) and Data, Learning, and Inference (DALI 2019) workshop together with Arthur Gretton and Shakir Mohamed.</p>
+<p>I also helped organize the <a href="https://neurips.cc/Conferences/2016" target="_blank">29th Neural Information Processing Systems (NIPS 2016)</a> and <a href="http://dalimeeting.org/dali2019/" target="_blank">Data, Learning, and Inference (DALI 2019)</a> workshop together with Arthur Gretton and Shakir Mohamed.</p>
 
 ![DALI2019 in South Africa](/assets/img/dali2019.jpg)
