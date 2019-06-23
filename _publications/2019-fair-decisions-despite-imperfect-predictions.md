@@ -10,7 +10,7 @@ authors:
   - bernhard_schoelkopf
   - krikamol_muandet
   - isabel_valera
-link: "test"
+link: "https://arxiv.org/abs/1902.02979"
 bibtex: "test"
 poster: "test"
 slide: "test"
