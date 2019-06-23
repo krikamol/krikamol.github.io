@@ -10,6 +10,12 @@ authors:
   - bernhard_schoelkopf
   - krikamol_muandet
   - isabel_valera
+link: "test"
+bibtex: "test"
+poster: "test"
+slide: "test"
+code: "test"
+video: "test"
 abstract: "Consequential decisions are increasingly informed by sophisticated data-driven predictive models.
 For accurate predictive models, deterministic threshold rules have been shown to be optimal in terms of utility, even under a variety of fairness constraints.
 However, consistently learning accurate predictive models requires access to ground truth labels.

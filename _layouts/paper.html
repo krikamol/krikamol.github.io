@@ -25,7 +25,9 @@ layout: default
     <h3>Abstract</h3>
     {{ page.abstract }}
     <br><br>
-    [ test ]
+    {% if page.link %}
+      [link]
+    {% endif %}
   </div>
 
   {%- if site.disqus.shortname -%}
