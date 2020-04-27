@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-<strong>Summary:</strong> Research overview.
+<strong>Summary:</strong>
+I have a broad interest in machine learning, an important subfield of artificial intelligence (AI).
 
 <br>
 
