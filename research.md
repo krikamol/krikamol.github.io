@@ -6,6 +6,8 @@ permalink: /research/
 
 <strong>Summary:</strong> Research overview.
 
+<br>
+
 <h3>Kernel Methods</h3>
 
 TBA
