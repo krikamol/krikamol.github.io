@@ -17,3 +17,7 @@ TBA
 <h3>Causality</h3>
 
 TBA
+
+<h3>Generalization</h3>
+
+TBA
