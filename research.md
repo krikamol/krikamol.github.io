@@ -6,10 +6,10 @@ permalink: /research/
 
 Research overview.
 
-<h2>Kernel Methods</h2>
+<h3>Kernel Methods</h3>
 
 TBA
 
-<h2>Econometrics</h2>
+<h3>Econometrics</h3>
 
 TBA
