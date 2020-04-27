@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Research overview.
+<strong>Summary:</strong> Research overview.
 
 <h3>Kernel Methods</h3>
 
