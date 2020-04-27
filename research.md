@@ -14,6 +14,6 @@ TBA
 
 TBA
 
-<h3>Causality</h>
+<h3>Causality</h3>
 
 TBA
