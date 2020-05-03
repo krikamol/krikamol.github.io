@@ -12,7 +12,7 @@ permalink: /research/
 ![Research Summary](/assets/img/research-visual.jpg)
 
 
-<p>The current themes of my research are summarized below.</p>
+<p>To answer the aforementioned question, I am pursuing several research directions as stepping stones. The current themes of my research are summarized below.</p>
 
 
 <h3>Kernel Methods</h3>
