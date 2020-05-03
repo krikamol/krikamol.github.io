@@ -10,7 +10,6 @@ permalink: /research/
 
 <p>The current themes of my research are summarized below.</p>
 
-<br>
 
 <h3>Kernel Methods</h3>
 
