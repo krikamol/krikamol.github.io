@@ -13,7 +13,7 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-
+            {%- ... -%}
             {%- if site.email -%}
             <a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a>
             </li>
@@ -22,6 +22,7 @@
             {%- if site.phone -%}
             Tel: {{ site.phone }}
             {%- endif -%}
+
             {%- if site.fax -%}
             Fax: {{ site.fax }}
             {%- endif -%}
