@@ -1,7 +1,7 @@
 ---
 layout: "paper"
 title: "Fair Decisions Despite Imperfect Predictions"
-type: conference
+type: arxiv
 venue: aistats
 year: 2020
 authors:
