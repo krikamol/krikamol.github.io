@@ -1,9 +1,9 @@
 ---
 layout: "paper"
 title: "Eigendecompositions of Transfer Operators in Reproducing Kernel Hilbert Spaces"
-type: preprint
-venue: arxiv
-year: "2017"
+type: journal
+venue: nonlinear_science
+year: "2020"
 authors:
   - stefan_klus
   - ingmar_schuster

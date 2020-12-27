@@ -77,3 +77,7 @@ pakdd:
 ecticon:
   name: International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology
   short: ECTI-CON
+
+nonlinear_science:
+  name: Journal of Nonlinear Science
+  short:
