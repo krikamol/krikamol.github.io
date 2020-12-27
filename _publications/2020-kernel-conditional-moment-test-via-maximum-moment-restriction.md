@@ -1,7 +1,7 @@
 ---
 layout: "paper"
 title: "Kernel Conditional Moment Test via Maximum Moment Restriction"
-type: arxiv
+type: conference
 venue: uai
 year: 2020
 authors:
