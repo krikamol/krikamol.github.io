@@ -3,7 +3,7 @@ layout: "paper"
 title: "Kernel Conditional Moment Test via Maximum Moment Restriction"
 type: conference
 venue: uai
-year: 2020
+year: "2020"
 authors:
   - krikamol_muandet
   - wittawat_jitkrittum

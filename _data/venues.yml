@@ -22,6 +22,10 @@ prl:
   name: Physical Review Letter
   short: PRL
 
+prr:
+  name: Physical Review Research
+  short: PRR
+
 cvpr:
   name: IEEE Computer Society Conference on Computer Vision and Pattern Recognition
   short: CVPR

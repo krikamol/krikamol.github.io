@@ -3,7 +3,7 @@ layout: "paper"
 title: "Fair Decisions Despite Imperfect Predictions"
 type: conference
 venue: aistats
-year: 2020
+year: "2020"
 authors:
   - niki_kilbertus
   - manuel_gomez_rodriguez
