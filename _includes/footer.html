@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <h4 class="footer-heading">Contact me</h4>
+      <h4 class="footer-heading">Contact</h4>
       <div class="footer-col one-half">
         <ul class="contact-list">
           <li class="p-name">
@@ -13,15 +13,16 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-
+            {%- ... -%}
             {%- if site.email -%}
-            <a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a>
+            <a class="u-email" href="mailto:{{ site.work_email }}"> ({{ site.work_email }})</a>
             </li>
             {%- endif -%}
             <li>
             {%- if site.phone -%}
             Tel: {{ site.phone }}
             {%- endif -%}
+
             {%- if site.fax -%}
             Fax: {{ site.fax }}
             {%- endif -%}
