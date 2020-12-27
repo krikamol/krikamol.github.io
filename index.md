@@ -17,7 +17,7 @@ layout: home
 </center>
 <br>
 
-<p><i>My research aims at creating and understanding intelligent machines that can learn via both <strong>observation</strong> and <strong>experimentation</strong>. See <a href="{% link publication.md %}">publication</a> for my recent work.</i></p>
+<p><i>My research aims at creating and understanding intelligent machines that can learn via both <strong>observation</strong> and <strong>experimentation</strong>. To learn more about my research, check out my <a href="{% link publication.md %}">publication</a> and <a href="{% link research.md %}">research</a> pages.</i></p>
 
 <br>
 <h2>Welcome</h2>
