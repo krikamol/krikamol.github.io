@@ -29,6 +29,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'jekyll-font-awesome-sass'
-
-# upgrade kramdown to version 2.3.0 or later to fix the security issue
-gem "kramdown", ">= 2.3.0"
