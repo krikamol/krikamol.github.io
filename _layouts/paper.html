@@ -43,7 +43,7 @@ layout: default
       Video |
     {% endif %}
     {% if page.code %}
-      Code |
+      | <a href="{{ page.code }}" target="_blank">Link</a> |
     {% endif %}
   </div>
 
@@ -51,5 +51,5 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden>XXX</a>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
