@@ -1,14 +1,20 @@
 ---
 layout: "paper"
 title: "Kernel Conditional Density Operators"
-type: preprint
-venue: arxiv
-year: "2019"
+type: conference
+venue: aistats
+year: "2020"
 authors:
   - ingmar_schuster
   - mattes_mollenhauer
   - stefan_klus
   - krikamol_muandet
+link: "http://proceedings.mlr.press/v108/schuster20a.html"
+bibtex: "test"
+poster: "test"
+slide: "test"
+code: "test"
+video: "test"
 abstract: "We introduce a conditional density estimation
 model termed the conditional density operator. It naturally
 captures multivariate, multimodal output densities and is
