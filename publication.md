@@ -47,6 +47,12 @@ My bibliographic information are also available on <a href="https://scholar.goog
         {%- endif -%}
       {% endif %}
       </i></small>
+      {% if paper.remark %}
+        <br>
+        <small><i>
+        {{paper.remark]}}
+        </i></small>
+        {%- endif -%}
     </li>
     {% endfor %}
   </ul>
