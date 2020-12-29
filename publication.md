@@ -18,7 +18,8 @@ My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP
 {% for year in papers_by_sorted_year %}
   <h3>{{ year.name }}</h3>
   <ul>
-    {% for paper in year.items %}
+    {% assign papers_by_sorted_venue = year.items | sort: 'venue' %}
+    {% for paper in papers_by_sorted_venue %}
     <li>
       <a href="{{ paper.url }}">
         <strong>{{ paper.title }}</strong>
