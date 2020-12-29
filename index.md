@@ -18,7 +18,8 @@ layout: home
 <br>
 
 <center>
-<p>I have a broad interest in machine learning (ML). My current research aims at creating and understanding intelligent machines that can learn via both <strong>observation</strong> and <strong>experimentation</strong>. To learn more, check out my <a href="{% link publication.md %}">publication</a> and <a href="{% link research.md %}">research</a> pages.</p>
+<p>I have a broad interest in machine learning (ML). My current research aims at creating and understanding intelligent machines that can learn via both <strong>observation</strong> and <strong>experimentation</strong>.<br> 
+To learn more, check out my <a href="{% link publication.md %}">publication</a> and <a href="{% link research.md %}">research</a> pages.</p>
 </center>
 
 <br>
