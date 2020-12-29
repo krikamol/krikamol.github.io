@@ -10,7 +10,6 @@ layout: default
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign authors = site.data.authors %}
-        {% assign venues = site.data.venues %}
         {% for idx in page.authors %}
           {% assign author = authors[idx] %}
           <a href="{{ author.website }}">
@@ -18,21 +17,23 @@ layout: default
           </a>
           {% unless forloop.last %}-{% endunless %}
         {% endfor %}
-        <br>
-        {{ venues[page.venue].name }}
-        {% if page.type == "journal" %}
-          {%- if venues[page.venue].short -%}
-            ({{venues[page.venue].short}})
-          {%- endif -%}
-        {% elsif page.type == "conference" %}
-          {%- if venues[page.venue].short -%}
-            ({{venues[page.venue].short}} {{page.year}})
-          {%- endif -%}
-        {% endif %}
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
       {%- endif -%}</p>
+    <p class="post-meta">
+      {% assign venues = site.data.venues %}
+      {{ venues[page.venue].name }}
+      {% if page.type == "journal" %}
+        {%- if venues[page.venue].short -%}
+          ({{venues[page.venue].short}})
+        {%- endif -%}
+      {% elsif page.type == "conference" %}
+        {%- if venues[page.venue].short -%}
+          ({{venues[page.venue].short}} {{page.year}})
+        {%- endif -%}
+      {% endif %}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
