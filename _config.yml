@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Krikamol Muandet
+title: <b>K</b>rikamol Muandet
 email: krikamol@gmail.com
 work_email: krikamol@tuebingen.mpg.de
 work_address: "Max Planck Institute for Intelligent Systems,
