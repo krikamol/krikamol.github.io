@@ -50,7 +50,7 @@ My bibliographic information are also available on <a href="https://scholar.goog
       {% if paper.remark %}
         <br>
         <small><i>
-        <span style="color:red">*{{paper.remark]}}</span>
+        <span style="color:red">* {{paper.remark]}}</span>
         </i></small>
         {%- endif -%}
     </li>
