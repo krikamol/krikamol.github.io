@@ -9,6 +9,7 @@ authors:
   - kenji_fukumizu
   - francesco_dinuzzo
   - bernhard_schoelkopf
+remark: "Spotlight Talk"
 abstract: "This paper presents a kernel-based discriminative learning framework on probability measures. Rather than relying on large collections of vectorial training
 examples, our framework learns using a collection of probability distributions
 that have been constructed to meaningfully represent training data. By representing these probability distributions as mean embeddings in the reproducing kernel
