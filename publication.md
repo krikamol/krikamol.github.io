@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-dblp: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Muandet:Krikamol.html
+semantic_scholar: https://www.semanticscholar.org/author/Krikamol-Muandet/2276351
 permalink: /publication/
 ---
 
@@ -9,7 +9,7 @@ This page contains a list of my publications in a chronological order.
 If you have questions regarding any of these publications, please do not
 hesitate to <a href="mailto:{{site.email}}">contact me</a>.
 
-My bibliographic information is also available on <a href="{{ page.dblp }}">DBLP</a>.
+My bibliographic information is also available on <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" target="_blank">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/{{ site.dblp_username }}" target="_blank">DBLP</a>, and <a href="{{ page.semantic_scholar }}" target="_blank">Semantic Scholar</a>.
 
 {% assign authors = site.data.authors %}
 {% assign venues = site.data.venues %}
