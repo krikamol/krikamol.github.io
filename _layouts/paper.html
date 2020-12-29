@@ -34,6 +34,11 @@ layout: default
         {%- endif -%}
       {% endif %}
     </p>
+    <p class="post-meta">
+      {% if paper.remark %}
+        <span style="color:red">* {{paper.remark]}}</span>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
