@@ -23,12 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Krikamol Muandet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: krikamol
-github_username:  krikamol
-scholar_username: E2z5uYsAAAAJ
-dblp_username: Muandet:Krikamol
-researchgate_username: Krikamol_Muandet
-orcid_username: 0000-0002-4182-5282
 
 # Build settings
 markdown: kramdown
@@ -42,6 +36,15 @@ header_pages:
   - publication.md
   - teaching.md
   - tutorial.md
+
+# generate social links in footer
+social_links:
+  twitter: krikamol
+  github:  krikamol
+  scholar: E2z5uYsAAAAJ
+  dblp: Muandet:Krikamol
+  researchgate: Krikamol_Muandet
+  orcid: 0000-0002-4182-5282
 
 defaults:
   - scope:
