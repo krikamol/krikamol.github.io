@@ -9,10 +9,10 @@ layout: home
 <img src="{{ site.krik_img_file }}" width="100%"><br><br>
 <a href="{{ site.cv_file }}" target="_blank">CV</a> &bull;
 <a href="{{ site.rs_file }}" target="_blank">Research Statement</a> &bull;
-<a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> |
-<a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" target="_blank">Google Scholar</a> |
-<a href="https://dblp.uni-trier.de/pers/hd/m/{{ site.dblp_username }}" target="_blank">DBLP</a> |
-<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank">ResearchGate</a> |
+<a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a> &bull;
+<a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" target="_blank">Google Scholar</a> &bull;
+<a href="https://dblp.uni-trier.de/pers/hd/m/{{ site.dblp_username }}" target="_blank">DBLP</a> &bull;
+<a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" target="_blank">ResearchGate</a> &bull;
 <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank">ORCID</a>
 </center>
 <br>
