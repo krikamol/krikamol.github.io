@@ -6,19 +6,24 @@
       <div class="footer-col">
       <ul class="contact-list">
         <li class="p-name">
+        {%- if site.work_place -%}
+        <li>{{ site.work_place }}</li>
+        {%- endif -%}
         {%- if site.work_address -%}
         <li>{{ site.work_address }}</li>
-        {%- endif -%}
-        {%- if site.email -%}
-        <li>Email: <a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a></li>
-        {%- endif -%}
-        {%- if site.phone -%}
-        <li>Telephone: {{ site.phone }}</li>
         {%- endif -%}
       </ul>
       </div>
     <div class="footer-col"></div>
     <div class="footer-col">
+      <ul class="contact-list">
+      {%- if site.email -%}
+      <li>Email: <a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a></li>
+      {%- endif -%}
+      {%- if site.phone -%}
+      <li>Telephone: {{ site.phone }}</li>
+      {%- endif -%}
+      </ul>
       <div class="social-links">
         {%- include social.html -%}
       </div>
