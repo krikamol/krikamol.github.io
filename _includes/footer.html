@@ -7,9 +7,9 @@
       <ul class="contact-list">
         <li class="p-name">
         {%- if site.email -%}
-        <li>Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li>Email: <a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a></li>
         {%- endif -%}
-        <li>Max-Planck-Ring 4, T&uuml;bingen 72076, Germany</li>
+        <li>{{ site.work_address }}</li>
       </ul>
       </div>
 
