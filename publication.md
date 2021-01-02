@@ -19,7 +19,7 @@ My bibliographic information are also available on <a href="https://scholar.goog
 {% assign papers_by_sorted_year = papers_by_year | sort: 'name' | reverse %}
 {% for year in papers_by_sorted_year %}
   <h3>{{ year.name }}</h3>
-  <ul>
+    <ul>
     {% assign papers_by_sorted_venue = year.items | sort: 'venue' %}
     {% for paper in papers_by_sorted_venue %}
     <li>
