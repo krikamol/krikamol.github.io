@@ -30,7 +30,7 @@ stefan_klus:
 
 jonas_kuebler:
   first: Jonas
-  last: Kuebler
+  last: Kübler
   affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/jmkuebler
 
@@ -43,7 +43,7 @@ mijung_park:
 sikai_lee:
   first: Si Kai
   last: Lee
-  affiliation: University of Chicago
+  affiliation: Booth School of Business, University of Chicago
   website: https://www.is.mpg.de/person/sklee
 
 luigi_gresele:
@@ -67,7 +67,7 @@ qianli_ma:
 siyu_tang:
   first: Siyu
   last: Tang
-  affiliation: ETH Zurich
+  affiliation: ETH Zürich
   website: https://siyut.github.io/SiyuT/
 
 heiko_neumann:
@@ -85,7 +85,7 @@ arash_mehrjou:
 wittawat_jitkrittum:
   first: Wittawat
   last: Jitkrittum
-  affiliation: Max Planck Institute for Intelligent Systems
+  affiliation: Google Research
   website: http://wittawat.com/
 
 niki_kilbertus:
@@ -115,14 +115,14 @@ christian_jarvers:
 motonobu_kanagawa:
   first: Motonobu
   last: Kanagawa
-  affiliation: University of Tuebingen
+  affiliation: Eurecom
   website: https://sites.google.com/site/motonobukanagawa/
 
 sorawit_saengkyongam:
   first: Sorawit
   last: Saengkyongam
   affiliation: University of Copenhagen
-  website: https://uk.linkedin.com/in/sorawitj
+  website: https://scholar.google.com/citations?user=e3aDv1QAAAAJ&hl=en
 
 sanparith_marukatat:
   first: Sanparith
@@ -151,7 +151,7 @@ isabelle_guyon:
 ulrike_von_luxburg:
   first: Ulrike
   last: von Luxburg
-  affiliation: University of Tuebingen
+  affiliation: University of Tübingen
   website: http://www.tml.cs.uni-tuebingen.de/team/luxburg/
 
 ilya_tolstikhin:
@@ -295,9 +295,9 @@ wichit_tharanon:
 
 palakon_sompot:
   first: Palakon
-  last: sompot
-  affiliation:
-  website:
+  last: Sompot
+  affiliation: Vidyasirimedhi Institute of Science and Technology
+  website: https://scholar.google.com/citations?user=QojPeBkAAAAJ&hl=en
 
 junhyung_park:
   first: Junhyung
@@ -338,7 +338,7 @@ masaaki_imaizumi:
 korrawe_karunratanakul:
   first: Korrawe
   last: Karunratanakul
-  affiliation: ETH Zurich
+  affiliation: ETH Zürich
   website: https://inf.ethz.ch/people/person-detail.MjcwNzYz.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html
 
 jinlong_yang:
