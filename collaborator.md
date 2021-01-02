@@ -10,6 +10,6 @@ permalink: /collaborator/
 {% assign authors_by_sorted_last = authors | sort: 'last' %}
 <ul>
 {% for author in authors_by_sorted_last %}
-      <li><a href="{{ author.website }}">{{ author.first }} {{ author.last }}</a> ({{ author.affiliation }})</li>
+      <li>author</li>
 {% endfor %}
 </ul>
