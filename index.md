@@ -27,4 +27,4 @@ Check out my <a href="{% link publication.md %}">publication</a> and <a href="{%
 <p>My research interest lies in the area known as "<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">machine learning</a>".
 I am particularly interested in, for example, statistical learning theory, kernel methods, causal inference, counterfactual prediction, and algorithmic game theory. When I am not doing research, I enjoy reading books (on topics related to philosophy, psychology, history of science, etc) and watching movies. I also like outdoor sports such as bouldering, climbing, and snowboarding.</p>
 
-<p>I always seek new collaboration, so I will be glad to hear from you.</p>
+<p>My <a href="{% link collaborator.md %}">collaborators</a>. I always seek new collaboration, so I will be glad to hear from you.</p>
