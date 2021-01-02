@@ -3,6 +3,11 @@ body {
   font-size: 14px;
   line-height: 24px; }
 
-ul#horizontal-list li {
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline > li {
   display: inline;
 }
