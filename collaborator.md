@@ -9,6 +9,7 @@ permalink: /collaborator/
 {% assign authors = site.data.authors %}
 <ul>
 {% for author in authors %}
-      <li>{{ author[0] }}</li>
+      {% assign key = author[0] %}
+      <li>{{ authors[key].first }} {{ authors[key].last }} ({{ authors[key].affiliation }})</li>
 {% endfor %}
 </ul>
