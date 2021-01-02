@@ -1,13 +1,13 @@
 krikamol_muandet:
   first: Krikamol
   last: Muandet
-  affiliation: MPI
+  affiliation: Max Planck Institute for Intelligent Systems
   website: http://krikamol.org
 
 bernhard_schoelkopf:
   first: Bernhard
   last: Schölkopf
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/~bs
 
 ingmar_schuster:
@@ -31,25 +31,25 @@ stefan_klus:
 jonas_kuebler:
   first: Jonas
   last: Kuebler
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/jmkuebler
 
 mijung_park:
   first: Mijung
   last: Park
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ei.is.mpg.de/~mpark
 
 sikai_lee:
   first: Si Kai
   last: Lee
-  affiliation:
+  affiliation: Booth School of Business, University of Chicago
   website: https://www.is.mpg.de/person/sklee
 
 luigi_gresele:
   first: Luigi
   last: Gresele
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ei.is.tuebingen.mpg.de/person/lgresele
 
 yan_zhang:
@@ -61,13 +61,13 @@ yan_zhang:
 qianli_ma:
   first: Qianli
   last: Ma
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/qma
 
 siyu_tang:
   first: Siyu
   last: Tang
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ps.is.tuebingen.mpg.de/person/stang
 
 heiko_neumann:
@@ -79,19 +79,19 @@ heiko_neumann:
 arash_mehrjou:
   first: Arash
   last: Mehrjou
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ei.is.tuebingen.mpg.de/person/amehrjou
 
 wittawat_jitkrittum:
   first: Wittawat
   last: Jitkrittum
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: http://wittawat.com/
 
 niki_kilbertus:
   first: Niki
   last: Kilbertus
-  affiliation: MPI-IS &  University of Cambridge
+  affiliation: Max Planck Institute for Intelligent Systems &  University of Cambridge
   website: https://www.is.mpg.de/person/nkilbertus
 
 manuel_gomez_rodriguez:
@@ -103,7 +103,7 @@ manuel_gomez_rodriguez:
 isabel_valera:
   first: Isabel
   last: Valera
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ivaleram.github.io/
 
 christian_jarvers:
@@ -139,7 +139,7 @@ nihar_shah:
 behzad_tabibian:
   first: Behzad
   last: Tabibian
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: http://btabibian.com/
 
 isabelle_guyon:
@@ -302,7 +302,7 @@ palakon_sompot:
 junhyung_park:
   first: Junhyung
   last: Park
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/jpark
 
 xiaohan_chen:
@@ -320,7 +320,7 @@ zhangyang_wang:
 anant_raj:
   first: Anant
   last: Raj
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://anantrajml.github.io
 
 rui_zhang:
@@ -344,11 +344,11 @@ korrawe_karunratanakul:
 jinlong_yang:
   first: Jinlong
   last: Yang
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/jyang
 
 michael_black:
   first: Michael
   last: Black
-  affiliation: MPI-IS
+  affiliation: Max Planck Institute for Intelligent Systems
   website: https://ps.is.mpg.de/~black
