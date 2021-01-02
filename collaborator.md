@@ -10,6 +10,6 @@ permalink: /collaborator/
 {% assign authors_by_sorted_last = authors | sort: 'last' %}
 <ul>
 {% for author in authors_by_sorted_last %}
-      <li>author</li>
+      <li>{{ author.first }} {{ author.last }}</li>
 {% endfor %}
 </ul>
