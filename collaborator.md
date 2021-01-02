@@ -11,14 +11,14 @@ permalink: /collaborator/
   {% for author in authors %}
       {% assign key = author[0] %}
       <li>
-      {% if authors[key].website %}  
+      {%- if authors[key].website -%}  
         <a href="{{ authors[key].website }}" target="_blank">
       {%- endif -%}
         {{ authors[key].first }} {{ authors[key].last }}
-      {% if authors[key].website %}  
+      {%- if authors[key].website -%}
           </a>
       {%- endif -%}
-      {% if authors[key].affiliation %}
+      {%- if authors[key].affiliation -%}
         ({{ authors[key].affiliation }})
       {%- endif -%}
       </li>
