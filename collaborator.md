@@ -18,6 +18,7 @@ permalink: /collaborator/
       {%- if authors[key].website -%}
           </a>
       {%- endif -%}
+      
       {%- if authors[key].affiliation -%}
         ({{ authors[key].affiliation }})
       {%- endif -%}
