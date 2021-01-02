@@ -30,9 +30,9 @@ My bibliographic information are also available on <a href="https://scholar.goog
       {% for idx in paper.authors %}
         {% assign author = authors[idx] %}
         <small>
-        <a href="{{ author.website }}" target="_blank">
-          {{ author.first }} {{ author.last }}
-        </a>
+          <a href="{{ author.website }}" target="_blank">
+            {{ author.first }} {{ author.last }}
+          </a>
         </small>
         {% unless forloop.last %}-{% endunless %}
       {% endfor %}
