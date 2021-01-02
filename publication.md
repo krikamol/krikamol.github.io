@@ -12,15 +12,14 @@ hesitate to <a href="mailto:{{site.email}}">contact me</a> directly.
 
 My bibliographic information are also available on <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" target="_blank">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/{{ site.dblp_username }}" target="_blank">DBLP</a>, and <a href="{{ page.semantic_scholar }}" target="_blank">Semantic Scholar</a>.
 
-
 {% assign authors = site.data.authors %}
 {% assign venues = site.data.venues %}
-{% assign papers_by_year = site.publications | group_by:'year' %}
+{% assign papers_by_year = site.publications | group_by: 'year' %}
 {% assign papers_by_sorted_year = papers_by_year | sort: 'name' | reverse %}
 
 {% for year in papers_by_sorted_year %}
   <h3>{{ year.name }}</h3>
-    <ul>
+  <ul>
     {% assign papers_by_sorted_venue = year.items | sort: 'venue' %}
     {% for paper in papers_by_sorted_venue %}
     <li>
