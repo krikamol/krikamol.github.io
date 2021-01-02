@@ -17,6 +17,7 @@ My bibliographic information are also available on <a href="https://scholar.goog
 {% assign venues = site.data.venues %}
 {% assign papers_by_year = site.publications | group_by:'year' %}
 {% assign papers_by_sorted_year = papers_by_year | sort: 'name' | reverse %}
+
 {% for year in papers_by_sorted_year %}
   <h3>{{ year.name }}</h3>
     <ul>
@@ -39,20 +40,17 @@ My bibliographic information are also available on <a href="https://scholar.goog
       <small><i>{{ venues[paper.venue].name }}
       {% if paper.type == "journal" %}
         {%- if venues[paper.venue].short -%}
-          ({{venues[paper.venue].short}})
+          ({{ venues[paper.venue].short }})
         {%- endif -%}
       {% elsif paper.type == "conference" %}
         {%- if venues[paper.venue].short -%}
-          ({{venues[paper.venue].short}} {{paper.year}})
+          ({{ venues[paper.venue].short }} {{ paper.year }})
         {%- endif -%}
       {% endif %}
       </i></small>
       {% if paper.remark %}
-        <br>
-        <small><i>
-        <span style="color:red">* {{paper.remark]}}</span>
-        </i></small>
-        {%- endif -%}
+        <br><small><i><span style="color:red">* {{ paper.remark }}</span></i></small>
+      {%- endif -%}
     </li>
     {% endfor %}
   </ul>
