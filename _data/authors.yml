@@ -352,3 +352,39 @@ michael_black:
   last: Black
   affiliation: Max Planck Institute for Intelligent Systems
   website: https://ps.is.mpg.de/~black
+
+matt_kusner:
+  first: Matt
+  last: Kusner
+  affiliation: University College London
+  website: https://mkusner.github.io/
+
+ricardo_silva:
+  first: Ricardo
+  last: Silva
+  affiliation: University College London
+  website: http://www.homepages.ucl.ac.uk/~ucgtrbd/
+
+yuchen_zhu:
+  first: Yuchen
+  last: Zhu
+  affiliation: University College London
+  website: http://ntp-0.cs.ucl.ac.uk/people/Yuchen.Zhu.html
+
+limor_gultchin:
+  first: Limor
+  last: Gultchin
+  affiliation: University of Oxford
+  website: https://www.turing.ac.uk/people/doctoral-students/limor-gultchin
+
+anna_korba:
+  first: Anna
+  last: Korba
+  affiliation: ENSAE/CREST
+  website: https://akorba.github.io/
+
+afsaneh_mastouri:
+  first: Afsaneh
+  last: Mastouri
+  affiliation: University College London
+  website: http://www0.cs.ucl.ac.uk/people/A.Mastouri.html
