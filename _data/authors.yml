@@ -394,3 +394,21 @@ uri_shalit:
   last: Shalit
   affiliation: Technion
   website: https://web.iem.technion.ac.il/site/academicstaff/uri-shalit/
+
+amir_asiaee:
+  first: Amir
+  last: Asiaee
+  affiliation: Ohio State University
+  website: https://www.amirasiaee.com/
+
+jared_huling:
+  first: Jared
+  last: Huling
+  affiliation: Ohio State University
+  website: https://tdai.osu.edu/faculty/members/jared-huling/
+
+subhadeep_paul:
+  first: Subhadeep
+  last: Paul
+  affiliation: Ohio State University
+  website: https://stat.osu.edu/people/paul.963
