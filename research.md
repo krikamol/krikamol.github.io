@@ -13,13 +13,19 @@ permalink: /research/
 <p>To answer the aforementioned question, I am pursuing several research directions as stepping stones. The current themes of my research are summarized below.</p>
 
 
-<h3>Modern Applications of Kernel Methods</h3>
+<h3>Modern Kernel Machines</h3>
 
 TBA
 
 <h3>Causality</h3>
 
 TBA
+
+<h3>Algorithmic Decision Making</h3>
+
+<p>
+While machines that outperform human at prediction tasks have become inexpensive to build, machines that can mimic human judgement and decision is still out of reach. A rapid deployment of predictive models in important sectors such as online advertising, criminal justice, education, and labor market has raised widespread concerns about the societal impact of algorithmic decisions. Complex decisions based on model predictions alone-even when they are perfect-can lead to unintended consequences such as discrimination and unfairness. Unlike a prediction, making a good decision from past data can be challenging because (i) it involves making counterfactual prediction and reasoning about potential outcomes, (ii) there can be many, interrelated factors or alternatives to consider, e.g., self-driving cars, (iii) the impact of the decision may be significant, e.g., health care and justice system, and (iv) the decisions may be subject to a strategic behavior. My goal is to bridge the gap between machine prediction and human judgement by exploring ideas in economics, mechanism design, game theory, and offline reinforcement learning.
+</p>
 
 <h3>Generalization</h3>
 
