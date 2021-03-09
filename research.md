@@ -13,11 +13,7 @@ permalink: /research/
 <p>To answer the aforementioned question, I am pursuing several research directions as stepping stones. The current themes of my research are summarized below.</p>
 
 
-<h3>Kernel Methods</h3>
-
-TBA
-
-<h3>Econometrics</h3>
+<h3>Modern Applications of Kernel Methods</h3>
 
 TBA
 
