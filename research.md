@@ -15,7 +15,7 @@ permalink: /research/
 
 <h3>Modern Kernel Machines</h3>
 
-TBA
+The backbone of kernel methods is a positive definite kernel k(x,x′) which defines a data representation implicitly in a so-called reproducing kernel Hilbert space (RKHS). Besides their mathematical elegance, kernel methods are among the most popular and powerful techniques for predictive machine learning because (i) they are flexible and can work with a variety of data types (e.g., strings, graphs, and groups) in an integrated framework, (ii) we can incorporate prior knowledge about the learning problem through diverse choices of kernel functions, and (iii) there exist abundant learning algorithms that support kernel functions. Recently, the kernel function becomes an important ingredient of neural tangent kernel (NTK) which offers theoretical insights into the training dynamics of deep neural networks. Further, a kernel mean embedding (KME) extends the whole arsenal of kernel methods to probability measures, leading to new research opportunities in deep learning, causality, econometrics, among others. I am constantly pushing for a wide range of new and exciting applications of kernel methods.
 
 <h3>Causality</h3>
 
