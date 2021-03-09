@@ -4,11 +4,11 @@ title: Students
 permalink: /student/
 ---
 
-<p>I am grateful for all of my students. If you are interested in working with me, I will be glad to hear from you.</p>
+<p>I am grateful for all of my students. I am really proud of them. If you are interested in working with me, I will be glad to hear from you.</p>
 
 {% assign students = site.data.students %}
 <ul>
-  {% for student in student %}
+  {% for student in students %}
       {% assign key = author[0] %}
       <li>
       {%- if authors[key].website -%}  
@@ -19,7 +19,7 @@ permalink: /student/
           </a>
       {%- endif -%}
       {%- if authors[key].affiliation -%}
-        &nbsp;({{ authors[key].affiliation }})
+        &nbsp;({{ authors[key].title }}, {{ authors[key].affiliation }})
       {%- endif -%}
       </li>
   {% endfor %}
