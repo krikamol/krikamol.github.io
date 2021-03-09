@@ -19,7 +19,7 @@ permalink: /student/
           </a>
       {%- endif -%}
       {%- if students[key].affiliation -%}
-        &nbsp;({{ students[key].title }}, {{ students[key].affiliation }})
+        &nbsp;(<i>{{ students[key].title }}</i>, {{ students[key].affiliation }})
       {%- endif -%}
       </li>
   {% endfor %}
