@@ -9,17 +9,17 @@ permalink: /student/
 {% assign students = site.data.students %}
 <ul>
   {% for student in students %}
-      {% assign key = author[0] %}
+      {% assign key = student[0] %}
       <li>
-      {%- if authors[key].website -%}  
-        <a href="{{ authors[key].website }}" target="_blank">
+      {%- if students[key].website -%}  
+        <a href="{{ students[key].website }}" target="_blank">
       {%- endif -%}
-        {{ authors[key].first }} {{ authors[key].last }}
-      {%- if authors[key].website -%}
+        {{ students[key].first }} {{ students[key].last }}
+      {%- if students[key].website -%}
           </a>
       {%- endif -%}
-      {%- if authors[key].affiliation -%}
-        &nbsp;({{ authors[key].title }}, {{ authors[key].affiliation }})
+      {%- if students[key].affiliation -%}
+        &nbsp;({{ students[key].title }}, {{ students[key].affiliation }})
       {%- endif -%}
       </li>
   {% endfor %}
