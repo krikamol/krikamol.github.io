@@ -5,3 +5,11 @@ junhyung_park:
   status: active
   affiliation: Max Planck Institute for Intelligent Systems
   website: https://www.is.mpg.de/person/jpark
+
+jonas_kuebler:
+  first: Jonas
+  last: Kübler
+  title: PhD student
+  status: active
+  affiliation: Max Planck Institute for Intelligent Systems
+  website: https://www.is.mpg.de/person/jmkuebler
