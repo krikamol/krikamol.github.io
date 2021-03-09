@@ -24,7 +24,7 @@ The backbone of kernel methods is a positive definite kernel k(x,x′) which def
 
 Cause-effect inference is a grand challenge of scientific research. Insights into causal relationships can help assess the consequences of certain interventions such as medical treatments or public policies. The causal understanding of diseases like cancer and possible treatments could ultimately help save million of lives around the world. Furthermore, causal knowledge is a foundation of counterfactual prediction, which is an essential part in decision making. In practice, however, experimental data can be unethical, expensive, or even impossible to collect, so we must rely on observational data which can suffer from the confounding bias. Observational studies are ubiquitous in medical diagnosis, recommendation systems, and personalization. According to the so-called Reichenbach’s principle, the dependence between two random variables implies that either one causes the other, or that they simply have a common cause. Put differently, a straightforward deployment of learning algorithms alone is insufficient for solving causal problems-but it certainly can help. My interest in this direction lies in developing novel algorithms that can achieve better counterfactual prediction from observational data.
 
-![Causality](/assets/img/causality.png){ width=50% }
+![Causality](/assets/img/causality.png){: .center-image }
 
 <br>
 <h3>Algorithmic Decision Making</h3>
