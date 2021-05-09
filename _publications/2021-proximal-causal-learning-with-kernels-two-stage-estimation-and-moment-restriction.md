@@ -2,7 +2,7 @@
 layout: "paper"
 title: "Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction"
 type: preprint
-venue: ICML
+venue: icml
 year: "2021"
 authors:
   - afsaneh_mastouri
