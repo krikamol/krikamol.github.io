@@ -1,7 +1,7 @@
 ---
 layout: "paper"
 title: "Conditional Distributional Treatment Effect with Kernel Conditional Mean Embeddings and U-Statistic Regression"
-type: preprint
+type: conference
 venue: icml
 year: "2021"
 authors:
