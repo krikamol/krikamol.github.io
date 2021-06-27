@@ -73,6 +73,7 @@ font-awesome:
 krik_img_file: assets/img/krikamol.jpg
 cv_file: assets/pdf/krikamol-cv.pdf
 rs_file: assets/pdf/krikamol-research.pdf
+pcr_file: assets/pdf/krikamol-pcr-research.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
