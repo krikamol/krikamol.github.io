@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Krikamol Muandet
 email: krikamol@gmail.com
-work_email: krikamol@tuebingen.mpg.de
-work_place: "Max Planck Institute for Intelligent Systems"
-work_address: "Max-Planck-Ring 4, 72076 Tübingen, Germany"
-phone: +49 (0)7071 601 559
-fax: +49 (0)7071 601 552
+work_email: muandet@cispa.de
+work_place: "CISPA - Helmholtz Center for Information Security"
+work_address: "Stuhlsatzenhaus 5, 66123 Saarbrücken, Germany"
+phone: +49 681 87083 2558
+fax: 
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Krikamol Muandet
 baseurl: "" # the subpath of your site, e.g. /blog
