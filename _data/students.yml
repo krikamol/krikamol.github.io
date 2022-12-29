@@ -4,7 +4,7 @@ junhyung_park:
   title: PhD student
   status: active
   affiliation: Max Planck Institute for Intelligent Systems
-  website: www.is.mpg.de/person/jpark
+  website: https://www.is.mpg.de/person/jpark
 
 jonas_kuebler:
   first: Jonas
@@ -12,4 +12,4 @@ jonas_kuebler:
   title: PhD student
   status: finished
   affiliation: Amazon Science
-  website: www.amazon.science/author/jonas-m-kubler
+  website: https://www.amazon.science/author/jonas-m-kubler
