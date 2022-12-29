@@ -29,5 +29,5 @@ permalink: /student/
   {% endfor %}
 </ul>
 
-<p>If you are a student and are interested in working with me, please do not hesitate to reach out to me.</p>
+<p>If you are a student and are interested in working with me, please do not hesitate to reach out to me. Specify in your email why you think we would be a good fit in terms of research interest (see my research and publication pages).</p>
 
