@@ -4,7 +4,7 @@ title: Students
 permalink: /student/
 ---
 
-<p>I am grateful for all of my students. I am really proud of them. If you are interested in working with me, I will be glad to hear from you.</p>
+<p>I am grateful for all of my students. I am really proud of them.</p>
 
 {% assign students = site.data.students %}
 <ul>
@@ -19,7 +19,11 @@ permalink: /student/
           </a>
       {%- endif -%}
       {%- if students[key].affiliation -%}
-        &nbsp;(<i>{{ students[key].title }}</i>, {{ students[key].affiliation }})
+	{%- if students[key].status == "finished" -%}
+          &nbsp;(<i>{{ students[key].title }}</i>, Now at {{ students[key].affiliation }})
+	{%- elsif students[key].status == "active" -%}
+          &nbsp;(<i>{{ students[key].title }}</i>, {{ students[key].affiliation }})
+	{%- endif -%}
       {%- endif -%}
       </li>
   {% endfor %}
