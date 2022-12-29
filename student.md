@@ -4,7 +4,7 @@ title: Students
 permalink: /student/
 ---
 
-<p>Here are my past and current brilliant students.</p>
+<p>Here are my past and current brilliant students with whom I have been fortunate to collaborate.</p>
 
 {% assign students = site.data.students %}
 <ul>
