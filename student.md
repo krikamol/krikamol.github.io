@@ -4,7 +4,7 @@ title: Students
 permalink: /student/
 ---
 
-<p>If you are a student and are interested in working with me, please do not hesitate to reach out to me directly.</p>
+<p>Here are my past and current brilliant students.</p>
 
 {% assign students = site.data.students %}
 <ul>
@@ -28,3 +28,6 @@ permalink: /student/
       </li>
   {% endfor %}
 </ul>
+
+<p>If you are a student and are interested in working with me, please do not hesitate to reach out to me.</p>
+
