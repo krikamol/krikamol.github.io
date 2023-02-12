@@ -478,3 +478,21 @@ felix_wortmann:
   last: Wortmann
   affiliation: ETH Zürich
   website: https://im.ethz.ch/people/fwortmann.html
+
+amir_hossein_karimi:
+  first: Amir-Hossein
+  last: Karimi
+  affiliation: Max Planck Institute for Intelligent Systems & ETH Zurich
+  website: https://sites.google.com/view/amirhkarimi/home
+
+simon_kornblith:
+  first: Simon
+  last: Kornblith
+  affiliation: Google
+  website: https://simonster.com/
+
+been_kim:
+  first: Been
+  last: Kim
+  affiliation: Google Brain
+  website: https://beenkim.github.io/
