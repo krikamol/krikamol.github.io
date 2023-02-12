@@ -7,7 +7,7 @@ year: "2023"
 authors:
   - junhyung_park
   - krikamol_muandet
-link: ""
+link: "https://arxiv.org/abs/2202.04415"
 bibtex: ""
 poster: ""
 slide: ""
