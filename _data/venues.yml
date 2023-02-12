@@ -93,3 +93,7 @@ alt:
 ifac:
   name: World Congress of the International Federation of Automatic Control
   short: IFAC
+
+jci:
+  name: Journal of Causal Inference
+  short: JCI
