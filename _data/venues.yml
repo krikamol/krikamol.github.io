@@ -85,3 +85,7 @@ nonlinear_science:
 3dv:
   name: International Conference on 3D Vision
   short: 3DV
+
+alt:
+  name: Algorithmic Learning Theory
+  short: ALT
