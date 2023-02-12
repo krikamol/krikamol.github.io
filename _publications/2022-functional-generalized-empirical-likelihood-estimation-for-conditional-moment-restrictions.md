@@ -2,7 +2,7 @@
 layout: "paper"
 title: "Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions"
 type: conference
-venue: aistats
+venue: icml
 year: "2022"
 authors:
   - heiner_kremer
