@@ -14,7 +14,7 @@ authors:
   - joachim_buhmann
   - felix_wortmann
   - krikamol_muandet
-link: ""
+link: "https://arxiv.org/abs/2206.12444"
 bibtex: ""
 poster: ""
 slide: ""
