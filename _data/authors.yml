@@ -412,3 +412,21 @@ subhadeep_paul:
   last: Paul
   affiliation: Ohio State University
   website: https://stat.osu.edu/people/paul.963
+
+francesco_quinzan:
+  first: Francesco
+  last: Quinzan
+  affiliation: KTH Royal Institute of Technology
+  website: https://scholar.google.com/citations?user=BlUWB5MAAAAJ&hl=vi
+
+cecilia_casolo:
+  first: Cecilia
+  last: Casolo
+  affiliation: Helmholtz AI
+  website: https://www.helmholtz.ai/themenmenue/our-research/research-groups/kilbertus-group/index.html
+
+yucen_luo:
+  first: Yucen
+  last: Luo
+  affiliation: Max Planck Institute for Intelligent Systems
+  website: http://yucenluo.com/

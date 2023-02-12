@@ -1,8 +1,8 @@
 ---
 layout: "paper"
-title: "Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction"
+title: "A Witness Two-Sample Test"
 type: conference
-venue: AISTATS
+venue: aistats
 year: "2022"
 authors:
   - jonas_kuebler
