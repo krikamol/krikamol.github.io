@@ -430,3 +430,51 @@ yucen_luo:
   last: Luo
   affiliation: Max Planck Institute for Intelligent Systems
   website: http://yucenluo.com/
+
+simon_foell:
+  first: Simon
+  last: Föll
+  affiliation: ETH Zürich
+  website: https://im.ethz.ch/people/sfoell.html
+
+alina_dubatovka:
+  first: Alina
+  last: Dubatovka
+  affiliation: ETH Zürich
+  website: https://scholar.google.com/citations?user=UhfeanIAAAAJ&hl=en
+
+eugen_ernst:
+  first: Eugen
+  last: Ernst
+  affiliation: Karlsruhe Institute of Technology (KIT)
+  website: https://www.linkedin.com/in/eugen-ernst-03715b145/?originalSubdomain=de
+
+martin_maritsch:
+  first: Martin
+  last: Maritsch
+  affiliation: Amazon Web Services (AWS)
+  website: https://www.linkedin.com/in/martinmaritsch/?originalSubdomain=ch
+
+patrik_okanovic:
+  first: Patrik
+  last: Okanovic
+  affiliation: ETH Zürich
+  website: https://www.linkedin.com/in/patrik-okanovic/?originalSubdomain=ch
+
+gudrun_thaeter:
+  first: Gudrun
+  last: Thäter
+  affiliation: Karlsruhe Institute of Technology (KIT)
+  website: https://www.math.kit.edu/ianm2/~thaeter/
+
+joachim_buhmann:
+  first: Joachim
+  last: Buhmann
+  affiliation: ETH Zürich
+  website: https://inf.ethz.ch/de/personen/person-detail.buhmann.html
+
+felix_wortmann:
+  first: Felix
+  last: Wortmann
+  affiliation: ETH Zürich
+  website: https://im.ethz.ch/people/fwortmann.html
