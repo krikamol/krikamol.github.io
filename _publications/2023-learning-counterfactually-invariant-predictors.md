@@ -10,7 +10,7 @@ authors:
   - krikamol_muandet
   - yucen_luo
   - niki_kilbertus
-link: ""
+link: "https://arxiv.org/pdf/2207.09768.pdf"
 bibtex: ""
 poster: ""
 slide: ""

@@ -496,3 +496,15 @@ been_kim:
   last: Kim
   affiliation: Google Brain
   website: https://beenkim.github.io/
+
+heiner_kremer:
+  first: Heiner
+  last: Kremer
+  affiliation: Max Planck Institute for Intelligent Systems
+  website: https://heinerkremer.github.io/
+
+jia_jie_zhu:
+  first: Jia-Jie
+  last: Zhu
+  affiliation: Weierstrass Institute for Applied Analysis and Stochastics
+  website: https://jj-zhu.github.io/
