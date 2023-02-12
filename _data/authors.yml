@@ -514,3 +514,15 @@ moritz_diehl:
   last: Diehl
   affiliation: University of Freiburg
   website: https://www.syscop.de/people/moritz-diehl
+
+vincent_stimper:
+  first: Vincent
+  last: Stimper
+  affiliation: Max Planck Institute for Intelligent Systems
+  website: https://is.mpg.de/~vstimper
+
+simon_buchholz:
+  first: Simon
+  last: Buchholz
+  affiliation: Max Planck Institute for Intelligent Systems 
+  website: https://is.mpg.de/person/sbuchholz
