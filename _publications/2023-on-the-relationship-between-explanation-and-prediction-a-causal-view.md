@@ -10,11 +10,11 @@ authors:
   - simon_kornblith
   - bernhard_schoelkopf
   - been_kim
-link: ""
+link: "https://arxiv.org/abs/2212.06925"
 bibtex: ""
 poster: ""
 slide: ""
 code: ""
 video: ""
-abstract: "This paper provides some first steps in developing empirical process theory for functions taking values in a vector space. Our main results provide bounds on the entropy of classes of smooth functions taking values in a Hilbert space, by leveraging theory from differential calculus of vector-valued functions and fractal dimension theory of metric spaces. We demonstrate how these entropy bounds can be used to show the uniform law of large numbers and asymptotic equicontinuity of the function classes, and also apply it to statistical learning theory in which the output space is a Hilbert space. We conclude with a discussion on the extension of Rademacher complexities to vector-valued function classes."
+abstract: "Being able to provide explanations for a model's decision has become a central requirement for the development, deployment, and adoption of machine learning models. However, we are yet to understand what explanation methods can and cannot do. How do upstream factors such as data, model prediction, hyperparameters, and random initialization influence downstream explanations? While previous work raised concerns that explanations (E) may have little relationship with the prediction (Y), there is a lack of conclusive study to quantify this relationship. Our work borrows tools from causal inference to systematically assay this relationship. More specifically, we study the relationship between E and Y by measuring the treatment effect when intervening on their causal ancestors, i.e., on hyperparameters and inputs used to generate saliency-based Es or Ys. Our results suggest that the relationships between E and Y is far from ideal. In fact, the gap between `ideal' case only increase in higher-performing models–-models that are likely to be deployed. Our work is a promising first step towards providing a quantitative measure of the relationship between E and Y, which could also inform the future development of methods for E with a quantitative metric."
 ---
