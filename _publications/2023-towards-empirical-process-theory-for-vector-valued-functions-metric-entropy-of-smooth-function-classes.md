@@ -9,7 +9,7 @@ authors:
   - krikamol_muandet
 link: "https://arxiv.org/abs/2202.04415"
 bibtex: ""
-poster: ""
+poster: ~
 slide: ""
 code: ""
 video: ""
